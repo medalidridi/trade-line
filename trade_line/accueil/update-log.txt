@@ -1,0 +1,15 @@
+v. 1.2
+
+- fixed chrome bug in revolution slider (bullets display) 
+- fixed missing margin-bottom on "team style 3"
+- fixed Firefox bug with transparent borders on testimonial arrows
+- fixed width and font rendering of carousel controls in IE8
+- fixed share icons in blog post not showing
+- allow use of basic <ol> and <ul> instead of built-in  styles.
+- added more space above header in content pages
+- added mb15 class, usefull for spacing between blocs in content
+- added revolution slider documentation
+- added "About us" template
+- added "Services" template
+- improved "Sidebar" and "fullwidth" template
+- improved content blockquotes design

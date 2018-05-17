@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page-subheading {
+font-family: "Open Sans",sans-serif;
+font-weight: 600;
+text-transform: uppercase;
+color: #49809e;
+font-size: 19px;
+padding: -1 0 15px;
+line-height: normal;
+margin-bottom: 12px;
+border-bottom: 0px solid #d6d4d4;
+}
